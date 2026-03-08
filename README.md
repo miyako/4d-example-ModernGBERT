@@ -25,4 +25,4 @@ $cosineSimilarity:=$de1.cosineSimilarity($de2)
 
 ||llama.cpp `Q8_0`|ONNX Runtime `Int8`|
 |-|:-|:-|
-|🇩🇪||`0.624173788309`|
+|🇩🇪||`0.8533958458509`|
